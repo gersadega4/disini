@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ovrwavs9/dpr:latest
+          tags: estnues4u35/dpr:latest
